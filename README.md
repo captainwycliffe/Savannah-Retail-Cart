@@ -7,6 +7,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Integrated with Stripe for secure checkout payments
 - Backend server to handle API requests
 
+## Installation
+### Install Angular CLI (Version 14.2.1)
+To install the required Angular CLI version, run:
+```sh
+npm install -g @angular/cli@14.2.1
+```
+
 ## Development Setup
 ### Backend Server
 1. Navigate to the server directory.
