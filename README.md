@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development Setup
 ### Backend Server
-1. Navigate to the project root.
+1. Navigate to the server directory.
 2. Install dependencies:
    ```sh
    npm install
